@@ -22,11 +22,11 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on ...**Android Development**
-- 🌱 I’m currently learning ... **Android Development,Flutter Development**
+- 🌱 I’m currently learning ... **Android Development**
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... **Java,Android Develpoment,Data Structures & Algorithms** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 - 📫 How to reach me: ... **hkad1016@gmail.com** 
-- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
+
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 <p align="left"> 
