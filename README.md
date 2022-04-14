@@ -1,4 +1,4 @@
-<a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a>
+
 <a href="#"><img width="100%" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif" height="175px"/></a>
 
 
@@ -43,7 +43,7 @@
 
 
 
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+ <img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
 
  
