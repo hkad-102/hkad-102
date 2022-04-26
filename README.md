@@ -1,6 +1,4 @@
 
-<!--<a href="#"><img width="100%" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif" height="175px"/></a>-->
-
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Computer Science Student.</h3>
