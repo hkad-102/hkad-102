@@ -20,7 +20,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on ...**Android Development**
-- 🌱 I’m currently learning ... **Android Development**
+<!--- 🌱 I’m currently learning ... **Android Development**-->
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... **Java,Android Develpoment,Data Structures & Algorithms** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 - 📫 How to reach me: ... **hkad1016@gmail.com** 
