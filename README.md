@@ -32,4 +32,4 @@
 
 
 
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkad-102" alt="hkad-102" /></a> </p>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkad-102"&column="8" alt="hkad-102" /></a> </p>
