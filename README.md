@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **Movie Website**
+- 🔭 I’m currently working on **Real-Time Chat Application**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js, Firebase**
 
 - 💬 Ask me about **java, javascript, react**
 
